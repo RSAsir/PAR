@@ -3,7 +3,7 @@
 El temario esta actualmente siendo reescrito por completo. Esta planeada una actualizacion con:
   1. Temario teorico.
   2. Teoria y ejemplos de ejercicios practicos:
-      - Conversion binario a decimal y viceversa.
+      - <strike>Conversion binario a decimal y viceversa.</strike>
       - Calculo de mascara y direccion de broadcast de direcciones con clase y sin clase.
       - Segmentacion de redes.
       - Como acortar direcciones IPv6.
